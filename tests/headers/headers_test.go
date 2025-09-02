@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"tcp2http/internal/headers"
+	"httpOverTcp/internal/headers"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

@@ -3,12 +3,12 @@ package request
 import (
 	"bytes"
 	"fmt"
+	"httpOverTcp/internal/headers"
 	"io"
 	"log/slog"
 	"regexp"
 	"strconv"
 	"strings"
-	"tcp2http/internal/headers"
 )
 
 type State string

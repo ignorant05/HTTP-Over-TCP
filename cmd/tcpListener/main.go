@@ -2,6 +2,9 @@ package main
 
 import (
 	"fmt"
+	"httpOverTcp/internal/request"
+	"httpOverTcp/internal/response"
+	"httpOverTcp/internal/server"
 	"log"
 	"net/http"
 	"os"
@@ -9,9 +12,6 @@ import (
 	"strconv"
 	"strings"
 	"syscall"
-	"tcp2http/internal/request"
-	"tcp2http/internal/response"
-	"tcp2http/internal/server"
 )
 
 const PORT = 8080

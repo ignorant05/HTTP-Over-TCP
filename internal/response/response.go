@@ -2,8 +2,8 @@ package response
 
 import (
 	"fmt"
+	"httpOverTcp/internal/headers"
 	"io"
-	"tcp2http/internal/headers"
 )
 
 type StatusCode int

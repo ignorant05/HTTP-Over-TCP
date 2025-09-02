@@ -2,10 +2,10 @@ package server
 
 import (
 	"fmt"
+	"httpOverTcp/internal/request"
+	"httpOverTcp/internal/response"
 	"io"
 	"net"
-	"tcp2http/internal/request"
-	"tcp2http/internal/response"
 )
 
 type HandlerError struct {
