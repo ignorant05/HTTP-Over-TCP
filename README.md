@@ -15,12 +15,19 @@ This simple DIY project is built for learning purposes and it isn't meant to be 
 - [testify](https://github.com/stretchr/testify.git).
 ### Note:
 > I used this RFC as a reference : [RFC 9110](https://datatracker.ietf.org/doc/html/rfc9110).
+
 </details>
 
 ---
 
 <details>
 <summary><strong>Usage</strong></summary>
+
+> To automatically install all required modules:
+
+```bash
+$ make install
+```
 
 > To build:
 
@@ -33,6 +40,7 @@ $ make build
 ```bash
 $ make run
 ```
+
 <br>
 </details> 
 

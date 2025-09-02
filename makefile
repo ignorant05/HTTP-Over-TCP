@@ -1,6 +1,9 @@
 args = cmd/tcpListener/main.go
 out = output
 
+install: 
+	go mod tidy 
+
 build: 
 	go build -o $(out) $(args)  
 
