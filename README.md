@@ -12,9 +12,11 @@ This simple DIY project is built for learning purposes and it isn't meant to be 
 <br>
 - go 1.24.4.
 <br>
-- [testify](https://github.com/stretchr/testify.git).
+    
+- [testify](https://github.com/stretchr/testify.git) .
+
 ### Note:
-> I used this RFC as a reference : [RFC 9110](https://datatracker.ietf.org/doc/html/rfc9110).
+> I used this RFC as a reference : [RFC 9110](https://datatracker.ietf.org/doc/html/rfc9110) .
 
 </details>
 
