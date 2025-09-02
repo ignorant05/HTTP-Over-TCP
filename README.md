@@ -2,8 +2,8 @@
 
 ## Description
 
-A very basic and simple http server build on top of tcp, basically a close of the HTTP/1.1 protocol.
-This simple DIY project is built for learning purposes and it isn't meant to be for probduction.
+A very basic and simple http server build on top of tcp, basically a clone of the HTTP/1.1 protocol.
+This simple DIY project is built for learning purposes and it isn't meant for production.
 
 ---
  
