@@ -10,8 +10,8 @@ This simple DIY project is built for learning purposes and it isn't meant to be 
 <details>
 <summary><strong>Dependencies</strong></summary>
 <br>
-- go 1.24.4.
-<br>
+    
+- go 1.24.4 .
     
 - [testify](https://github.com/stretchr/testify.git) .
 
